@@ -284,3 +284,11 @@ Supply-Chain-Demand-Forecasting/
 ├── Supply_Chain_Demand_Forecasting.ipynb
 │
 └── README.md
+
+## Project Report
+
+[View the Final Project Report](CV_Madhavan_Capstone_2026.pdf)
+
+## Notebook
+
+[View the Jupyter Notebook](Supply_Chain_Demand_Forecasting.ipynb)
